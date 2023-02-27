@@ -1,7 +1,7 @@
 var size = 0;
 var placement = 'point';
 
-var style_NorskeNettaviser_200521_1 = function(feature, resolution){
+var style_NorskeNettaviser_200521DVI_1 = function(feature, resolution){
     var context = {
         feature: feature,
         variables: {}
