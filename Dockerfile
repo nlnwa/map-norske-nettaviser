@@ -1,3 +1,3 @@
 FROM nginx:alpine
-COPY /map-nettaviser/ /usr/share/nginx/html/
+COPY /web/ /usr/share/nginx/html/
 
